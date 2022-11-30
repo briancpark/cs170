@@ -2,5 +2,5 @@
 	path = hw
 	url = git@github.com:briancpark/cs170-hw.git
 [submodule "project"]
-	path = project
+	path = proj
 	url = git@github.com:briancpark/cs170-project.git
