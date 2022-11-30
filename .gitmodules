@@ -1,0 +1,6 @@
+[submodule "hw"]
+	path = hw
+	url = git@github.com:briancpark/cs170-hw.git
+[submodule "project"]
+	path = project
+	url = git@github.com:briancpark/cs170-project.git
