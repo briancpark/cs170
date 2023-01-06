@@ -1,6 +1,6 @@
 # CS 170
 
-This course is Efficient Algorithms and Intractable Problems at UC Berkeley. I took this offering in Fall 2020 under Avishay Tal and Umesh Vazirani. This repo contains my development setup and notes.
+CS170 is Efficient Algorithms and Intractable Problems at UC Berkeley. I took this offering in Fall 2020 under Avishay Tal and Umesh Vazirani. This repo contains my development setup and notes.
 
 ## Development Setup
 
